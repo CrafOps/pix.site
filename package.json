@@ -9,13 +9,18 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "heic2any": "^0.0.4",
+    "jszip": "^3.10.1",
+    "lucide-react": "^0.562.0",
     "next": "16.1.1",
+    "pica": "^9.0.1",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
+    "@types/pica": "^9.0.5",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
